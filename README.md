@@ -1,5 +1,7 @@
 # Data Science and Engineering with Apache Spark
 
+ ![Apache Spark](http://spark.apache.org/images/spark-logo-trademark.png) ![Introduction](https://www.edx.org/sites/default/files/course/image/promoted/v2_1-intro-spark-378x225.jpg) ![Machine Learning](https://www.edx.org/sites/default/files/course/image/promoted/v2_3-intro-ml-378x225.jpg) ![Big Data](https://www.edx.org/sites/default/files/course/image/promoted/v2-intro-datascience-378x225.jpg) 
+
 This repository contains my work for the [Data Science and Engineering with Apache Spark XSeries Program](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm) created by UC Berkeley and Databricks. 
 
 
@@ -16,6 +18,7 @@ In total, the three courses have 10 labs. Most of these labs are big and not eas
 
 
 ## Lab Notebooks 
+All labs are completed using DataFrames
 
 ### CS105x: Introduction to Apache Spark
 * [Lab 0: Running Your First Notebook on Databricks](http://nbviewer.jupyter.org/github/XIEQ/DataScienceEngineeringApacheSpark/blob/master/1_CS105x_Introduction_to_Apache_Spark/CS105x_lab0_run_first_notebook.html)
